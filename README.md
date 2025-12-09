@@ -1,3 +1,7 @@
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blue?style=flat&logo=security)
+![Portfolio Under Construction](https://img.shields.io/badge/Portfolio-Under%20Construction-orange?style=flat)
+
 **About Me**
 
   I’m a Cybersecurity student with a broad interest in different areas of security and computer science.
